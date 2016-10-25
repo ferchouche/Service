@@ -1,0 +1,5 @@
+projectKey=com.alma.boutique:Boutique
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.alma.boutique:Boutique
+ceTaskId=AVf9y5vZoC5O0j2USCpJ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVf9y5vZoC5O0j2USCpJ
